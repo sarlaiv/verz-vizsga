@@ -1,1 +1,1 @@
-Ez egy olvass el fájl!
+ Ez egy olvass el fájl!
